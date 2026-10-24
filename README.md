@@ -25,7 +25,7 @@ A web-based firmware upgrade tool for Zigbee Dongle devices. This tool allows yo
 
 ### Hardware Requirements
 
-- Zigbee Dongle device
+- MG21 USB Zigbee Dongle device
 - USB cable for connection
 - USB port on your computer
 
@@ -214,7 +214,7 @@ For issues or questions:
 
 ## License
 
-This tool is provided as-is for use with Zigbee Dongle devices.
+This tool is provided as-is for use with MG21 USB Zigbee Dongle devices.
 
 ## Version History
 
